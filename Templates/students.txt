@@ -1,3 +1,0 @@
-Roll-No of the Student is: 1
-Name of the Student is: ali
-Cgpa of the Student is: 3.3
