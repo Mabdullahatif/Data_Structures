@@ -1,6 +1,6 @@
 # C++ Template Examples
 
-This repository contains a collection of C++ code examples that showcase the usage of templates. Templates are a powerful feature in C++ that allow for the creation of generic functions and classes, enabling code reusability and flexibility.
+This folder contains a collection of C++ code examples that showcase the usage of templates. Templates are a powerful feature in C++ that allow for the creation of generic functions and classes, enabling code reusability and flexibility.
 
 Each code example in this repository demonstrates a different aspect of template usage, including:
 
