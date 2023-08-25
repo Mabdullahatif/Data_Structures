@@ -2,7 +2,7 @@
 
 This folder contains a collection of C++ code examples that demonstrate the implementation of linked lists using various techniques. Linked lists are fundamental data structures that consist of nodes, each containing data and a reference to the next node. These examples showcase different types of linked lists, including singly linked lists, doubly linked lists, and circular linked lists.
 
-Each code example in this repository focuses on a specific aspect of linked list implementation, including insertion, deletion, display, and specialized operations like checking for palindromes. The examples cover both singly and doubly linked lists, offering a comprehensive understanding of different types of linked list structures and operations.
+Each code example in this folder focuses on a specific aspect of linked list implementation, including insertion, deletion, display, and specialized operations like checking for palindromes. The examples cover both singly and doubly linked lists, offering a comprehensive understanding of different types of linked list structures and operations.
 
 Here's an overview of the examples included in this folder:
 
