@@ -4,7 +4,7 @@ This folder contains a collection of C++ code examples that demonstrate the impl
 
 Each code example in this repository focuses on a specific aspect of linked list implementation, including insertion, deletion, display, and specialized operations like checking for palindromes. The examples cover both singly and doubly linked lists, offering a comprehensive understanding of different types of linked list structures and operations.
 
-Here's an overview of the examples included in this repository:
+Here's an overview of the examples included in this folder:
 
 1. **Singly Linked List:** A program that demonstrates the implementation of a singly linked list. It covers insertion at the start and end, deletion, display, sorted insertion, and checking for palindromes.
 
